@@ -10,6 +10,7 @@
 		2301394D1B30F197007378A8 /* GPX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2301394C1B30F197007378A8 /* GPX.swift */; };
 		2301394F1B30F752007378A8 /* MKGPX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2301394E1B30F752007378A8 /* MKGPX.swift */; };
 		230139511B310D2E007378A8 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230139501B310D2E007378A8 /* ImageViewController.swift */; };
+		230139531B31FEB1007378A8 /* EditWaypointViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230139521B31FEB1007378A8 /* EditWaypointViewController.swift */; };
 		237737131B2F500700FDABC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 237737121B2F500700FDABC5 /* AppDelegate.swift */; };
 		237737151B2F500700FDABC5 /* GPXViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 237737141B2F500700FDABC5 /* GPXViewController.swift */; };
 		237737181B2F500700FDABC5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 237737161B2F500700FDABC5 /* Main.storyboard */; };
@@ -32,6 +33,7 @@
 		2301394C1B30F197007378A8 /* GPX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GPX.swift; sourceTree = "<group>"; };
 		2301394E1B30F752007378A8 /* MKGPX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MKGPX.swift; sourceTree = "<group>"; };
 		230139501B310D2E007378A8 /* ImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
+		230139521B31FEB1007378A8 /* EditWaypointViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditWaypointViewController.swift; sourceTree = "<group>"; };
 		2377370D1B2F500700FDABC5 /* Trax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trax.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		237737111B2F500700FDABC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		237737121B2F500700FDABC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				237737141B2F500700FDABC5 /* GPXViewController.swift */,
 				2301394E1B30F752007378A8 /* MKGPX.swift */,
 				237737161B2F500700FDABC5 /* Main.storyboard */,
+				230139521B31FEB1007378A8 /* EditWaypointViewController.swift */,
 				237737101B2F500700FDABC5 /* Supporting Files */,
 			);
 			path = Trax;
@@ -223,6 +226,7 @@
 			files = (
 				237737151B2F500700FDABC5 /* GPXViewController.swift in Sources */,
 				2301394F1B30F752007378A8 /* MKGPX.swift in Sources */,
+				230139531B31FEB1007378A8 /* EditWaypointViewController.swift in Sources */,
 				230139511B310D2E007378A8 /* ImageViewController.swift in Sources */,
 				237737131B2F500700FDABC5 /* AppDelegate.swift in Sources */,
 				2301394D1B30F197007378A8 /* GPX.swift in Sources */,

@@ -10,22 +10,26 @@
 	<string>Trax</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>396F055E5BA7BEFDF699E8EF94139149A1B18164</key>
+		<string>https://github.com/ccossette/Trax.git</string>
 		<key>42635D9C461C4B8BAB4BF414F1903C2CC0B76674</key>
 		<string>https://github.com/ccossette/Happiness.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Trax/Trax.xcodeproj</string>
+	<string>Trax.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>396F055E5BA7BEFDF699E8EF94139149A1B18164</key>
+		<string>../..</string>
 		<key>42635D9C461C4B8BAB4BF414F1903C2CC0B76674</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ccossette/Happiness.git</string>
+	<string>https://github.com/ccossette/Trax.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>42635D9C461C4B8BAB4BF414F1903C2CC0B76674</string>
+	<string>396F055E5BA7BEFDF699E8EF94139149A1B18164</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>42635D9C461C4B8BAB4BF414F1903C2CC0B76674</string>
 			<key>IDESourceControlWCCName</key>
-			<string>dev_projects</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>396F055E5BA7BEFDF699E8EF94139149A1B18164</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Trax</string>
 		</dict>
 	</array>
 </dict>
